@@ -3,7 +3,7 @@
 # I am still learning Github. It's surely harder than HTML so I need time, to make it look professional, anyways.
 
 ## About me
-Hi, I’m @HarshitK2007.
+Hi, I’m <b>@HarshitK2007</b>.
 <br>
 The story behind this weird username is simple, My name is Harshit Kumar and I was born in 2007, the rest is easy to figure out.
 
