@@ -1,7 +1,8 @@
-# I am still learning Github, it harded than HTML so I need time, to make it look professional.
-If you have any suggestion for me, then please be my guest.
+# If you have any suggestion for me, then please be my guest.
+I am still learning Github, it harder than HTML so I need time, to make it look professional.
 
-Hi, I’m Harshit Kumar.
+Hi, I’m @HarshitK2007.
+The story behind this weird username is simple, My name is Harshit, surname is Kumar and I born in 2007.
 I’m interested in programming simply.
 I’m currently learning python libraries (fastapi, tkinter, Ctkinter, request), you can pretty much guess, what am I trying to cook.
 I’m looking to collaborate on anything, yup anything cuz my curiosity has no bounds but of the languages... I prefer Python, C, CPP, C#, HTML, CSS ,JS.
