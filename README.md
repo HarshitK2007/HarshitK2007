@@ -27,7 +27,7 @@ Nah, <b>Feel free to reach out</b> (though I barely use any social media so Gith
 ## Blah Blah 
 Pronouns: <b>He/Him</b>
 <br>
-Fun fact: One day, I saw a short of <b><i>Vinta Chen</i></b> (the best at github according to that short), so I joined it the same day.
+Fun fact: One day, I saw a short of <a href = "https://github.com/vinta"><b><i>Vinta Chen</i></b></a> (the best at github according to that short), so I joined it the same day.
 
 <!---
 HarshitK2007/HarshitK2007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
