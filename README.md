@@ -1,3 +1,6 @@
+# I am still learning Github, it harded than HTML so I need time, to make it look professional.
+If you have any suggestion for me, then please be my guest.
+
 Hi, I’m Harshit Kumar.
 I’m interested in programming simply.
 I’m currently learning python libraries (fastapi, tkinter, Ctkinter, request), you can pretty much guess, what am I trying to cook.
