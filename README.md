@@ -4,9 +4,11 @@
 
 ## About me
 Hi, I’m @HarshitK2007.
+<br>
 The story behind this weird username is simple, My name is Harshit Kumar and I was born in 2007, the rest is easy to figure out.
 
 ## My interest
+<br>
 I’m interested in programming simply and I love to deep dive into topics.
 
 ## Am i busy?
@@ -17,11 +19,14 @@ I’m looking to collaborate on anything, yup anything cuz my curiosity has no b
 
 ## Wanna talk?
 How to reach me? I dont think you will ever need to reach me, cuz I will always be there.
+<br>
 Nah, Feel free to reach out (though I barely use any social media so Github is your answer), after all who doesn't want to collaborate here.
+<br>
 Check out my repositories to see what I'm working on.
 
 ## Blah Blah 
 Pronouns: He/Him
+<br>
 Fun fact: One day, I saw a short of Vinta Chen (the best at github according to that short), so I joined it the same day.
 
 <!---
